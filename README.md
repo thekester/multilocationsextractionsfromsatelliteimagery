@@ -1,1 +1,3 @@
-# multilocationsextractionsfromsatelliteimagery
+# Multilocation Extractions from Satellite Imagery
+
+This project aims to extract and analyze coastal features from satellite imagery across multiple locations with a JSON files which contains multiple locations. It leverages the powerful CoastSat toolkit developed by kvos  [Coastsat](https://github.com/kvos/CoastSat), which is specifically designed for the extraction of shorelines and other coastal attributes from satellite images.
